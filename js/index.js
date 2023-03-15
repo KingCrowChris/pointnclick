@@ -1,0 +1,1 @@
+document.getElementById("maintitle").innerText = "point and click adventure";
