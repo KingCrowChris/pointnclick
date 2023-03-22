@@ -20,6 +20,11 @@ body{
     position: relative;
 }
 
+#mainCharacter{
+    left: 20px;
+    top: 20px;
+}
+
 .gameObject{
     position: absolute;
     background-color: white;
