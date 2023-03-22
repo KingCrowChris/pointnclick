@@ -13,7 +13,7 @@ body{
 
 #gamewindow{
     width: 800px;
-    height: 608;
+    height: 608px;
     background-color: blue;
     grid-row-start:2;
     grid-column-start: 2;
