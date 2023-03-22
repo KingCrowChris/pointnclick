@@ -19,3 +19,20 @@ body{
     grid-column-start: 2;
     position: relative;
 }
+
+.gameObject{
+    position: absolute;
+    background-color: white;
+}
+
+.foreground{
+    z-index:1000;
+}
+
+.character{
+    z-index:100;
+}
+
+.background{
+    z-index:0;
+}
