@@ -25,9 +25,31 @@ body{
     top: 250px;
 }
 
+#brokencrates{
+    width: 96px;
+    height: 128px;
+    left: 354px;
+    top: 318px;
+}
+
+#barrel1{
+    width: 31px;
+    height: 33px;
+    left: 20px;
+    top: 20px;
+}
+
+#barrel2{
+    width: 26px;
+    height: 30px;
+    left: 20px;
+    top: 100px;
+}
+
 .gameObject{
     position: absolute;
-    /* background-color: white; */
+    transition: all 1s ease-in-out;
+     background-color: white;
 }
 
 .foreground{
