@@ -21,13 +21,13 @@ body{
 }
 
 #mainCharacter{
-    left: 20px;
-    top: 20px;
+    left: 310px;
+    top: 250px;
 }
 
 .gameObject{
     position: absolute;
-    background-color: white;
+    /* background-color: white; */
 }
 
 .foreground{
